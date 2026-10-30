@@ -1,0 +1,6 @@
+{
+  "name": "Smart Delivery Management System",
+  "description": "Enterprise platform for managing customer orders, delivery personnel, fleet dispatch assignments, real-time status tracking, delivery history, and predictive ETA modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

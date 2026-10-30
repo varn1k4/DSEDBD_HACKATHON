@@ -1,0 +1,7 @@
+# Python Machine Learning & API Dependencies
+scikit-learn>=1.4.0
+numpy>=1.26.0
+flask>=3.0.0
+fastapi>=0.110.0
+uvicorn>=0.28.0
+requests>=2.31.0
